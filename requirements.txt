@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+ucimlrepo
+scikit-learn
+mlflow
+pytest
