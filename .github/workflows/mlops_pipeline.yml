@@ -38,7 +38,7 @@ jobs:
 
       - name: Run Model Training
         run: |
-          python train_model.py
+          python train.py
 
       - name: Run Unit Tests
         run: |
